@@ -2,7 +2,7 @@
 
 A modern, fully responsive corporate website template for a digital technology solutions company — built with vanilla HTML, CSS, and JavaScript. Demo-branded as **Quantyra Technologies**, a fictional digital solutions company, to showcase a realistic end-to-end business site.
 
-🔗 **Live Demo:** https://nouman-qamar.github.io/corporate-website-template/
+🔗 **Live Demo:** https://nouman-qamar.github.io/Corporate-Website-Template/
 
 ## 📱 Sections
 1. **Navigation** – Sticky navbar with mobile toggle
